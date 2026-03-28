@@ -10,14 +10,15 @@ I am a student at the Apple Developer Academy where I am  pursuing a career as a
 ---
 
 ## Tech & Tools
-![Static Badge](https://img.shields.io/badge/swift-blue)
-![Static Badge](https://img.shields.io/badge/swiftui-purple)
-![Static Badge](https://img.shields.io/badge/swiftdata-yellow)
+![Static Badge](https://img.shields.io/badge/Swift-blue)
+![Static Badge](https://img.shields.io/badge/SwiftUI-purple)
+![Static Badge](https://img.shields.io/badge/SwiftData-yellow)
 ![Static Badge](https://img.shields.io/badge/AVFoundation-red)
 ![Static Badge](https://img.shields.io/badge/CoreML-orange)
 ![Static Badge](https://img.shields.io/badge/Xcode-blue)
-![Static Badge](https://img.shields.io/badge/keynote-purple)
-![Static Badge](https://img.shields.io/badge/sketch-orange)
+![Static Badge](https://img.shields.io/badge/KeyNote-purple)
+![Static Badge](https://img.shields.io/badge/Sketch-orange)
+
 
 
 
