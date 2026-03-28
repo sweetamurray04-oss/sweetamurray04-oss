@@ -1,6 +1,6 @@
 # Welcome to My Github Profile 👩🏾‍💻
 ---
-* A life long learner *
+*A life long learner*
 ---
 
 ## About Me 
