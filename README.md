@@ -10,6 +10,14 @@ I am a student at the Apple Developer Academy where I am  pursuing a career as a
 ---
 
 ## Tech & Tools
+https://img.shields.io/badge/swiftui-purple
+
+
+
+
+---
+
+## My Projects
 
 
 
