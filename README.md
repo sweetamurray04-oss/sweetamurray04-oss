@@ -19,22 +19,17 @@ I am a student at the Apple Developer Academy where I am  pursuing a career as a
 ![Static Badge](https://img.shields.io/badge/KeyNote-purple)
 ![Static Badge](https://img.shields.io/badge/Sketch-orange)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## My Projects
 
+Haven Journal
 https://github.com/user-attachments/assets/53a03d27-2d6f-44d3-8266-699d6549ecf7
 
+
+
+MADCAP coffee app
+https://github.com/user-attachments/assets/8b08c4a3-9ce4-427f-b289-96d563100fea
+
+7Fold
 
