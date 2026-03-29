@@ -24,14 +24,22 @@ I am a student at the Apple Developer Academy where I am  pursuing a career as a
 
 ## My Projects 📲
 
-<p align="center">
-  <strong>Haven Journal App</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>MadCap Coffee App</strong>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/74b972cc-c348-41db-95af-f7da7d3f5d21" width="200"/>
-  <img src="https://github.com/user-attachments/assets/7ae512f3-1395-4f6f-b2ab-a85a38fc128a" width="200"/>
-</p>
-7Fold
+<table align="center">
+  <tr>
+    <td align="center"><strong>Haven Journal App</strong></td>
+    <td align="center"><strong>MadCap Coffee App</strong></td>
+    <td align="center"><strong>7Fold App</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/74b972cc-c348-41db-95af-f7da7d3f5d21" width="220"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7ae512f3-1395-4f6f-b2ab-a85a38fc128a" width="220"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2c79ba67-12b9-4e7c-abd6-e76214cde22b" width="420"/>
+    </td>
+  </tr>
+</table>
 
